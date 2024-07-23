@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Pokebola",
+    "description": "Pokebola Picachu",
+    "code": "poke15",
+    "price": 2000,
+    "stock": 100,
+    "category": "juguetes",
+    "thumbnails": [],
+    "status": true,
+    "id": 1
+  },
+  {
+    "title": "Sillon Luis XV",
+    "description": "Sillon muy comodo",
+    "code": "Luis22",
+    "price": 10000,
+    "stock": 5,
+    "category": "Muebles",
+    "thumbnails": [],
+    "status": true,
+    "id": 2
+  },
+  {
+    "title": "Rueda para cuatriciclo",
+    "description": "Rueda todo terreno",
+    "code": "Rueda6",
+    "price": 250,
+    "stock": 32,
+    "category": "gomeria",
+    "thumbnails": [],
+    "status": true,
+    "id": 3
+  },
+  {
+    "title": "Zapatillas Nike",
+    "description": "Zapatilla deportiva",
+    "code": "shoe7",
+    "price": 4000,
+    "stock": 50,
+    "category": "zapateria",
+    "thumbnails": [],
+    "status": true,
+    "id": 5
+  }
+]
